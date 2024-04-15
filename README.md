@@ -147,7 +147,7 @@ bc.html
 
 ## OUTPUT:
 
-![alt text](<sam/bcapp/static/Screenshot (417).png>)
+![alt text](<sam/bcapp/static/Screenshot (421).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
